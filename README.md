@@ -12,6 +12,8 @@ Chat Completions remains available for existing integrations.
 The client also covers embeddings, images, audio, moderation, files, fine-tuning,
 batches, vector stores, and legacy Assistants API surfaces.
 
+**Building agents?** Try [Unreal Agent](https://github.com/unreallabsai/unreal-agent) - Go-based, fully async harness that drives 40% cost savings compared to Codex!
+
 ## Installation
 
 ```sh
